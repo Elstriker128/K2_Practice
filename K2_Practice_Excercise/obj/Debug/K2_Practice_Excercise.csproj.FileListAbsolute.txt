@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\VSP\K2_Practice_Excercise\bin\Debug\K2_Practice_Excercise.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\K2_Practice_Excercise\bin\Debug\K2_Practice_Excercise.exe
+C:\Users\User\OneDrive\Desktop\VSP\K2_Practice_Excercise\bin\Debug\K2_Practice_Excercise.pdb
+C:\Users\User\OneDrive\Desktop\VSP\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.exe
+C:\Users\User\OneDrive\Desktop\VSP\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.pdb
+C:\Users\dovsta10\Documents\K2_Practice_Excercise\bin\Debug\K2_Practice_Excercise.exe.config
+C:\Users\dovsta10\Documents\K2_Practice_Excercise\bin\Debug\K2_Practice_Excercise.exe
+C:\Users\dovsta10\Documents\K2_Practice_Excercise\bin\Debug\K2_Practice_Excercise.pdb
+C:\Users\dovsta10\Documents\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.csproj.AssemblyReference.cache
+C:\Users\dovsta10\Documents\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\dovsta10\Documents\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\dovsta10\Documents\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.exe
+C:\Users\dovsta10\Documents\K2_Practice_Excercise\obj\Debug\K2_Practice_Excercise.pdb
